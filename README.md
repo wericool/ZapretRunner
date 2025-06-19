@@ -16,7 +16,7 @@ ZapretRunner — это приложение на Windows Forms, созданн�
 ## Проверки
 
 - **Операционная система**: Windows (tested on Windows 10/11).
-- **Проект zapret**: Установленные файлы проекта [zapret](https://github.com/Flowseal/zapret-discord-youtube) с .bat файлами, содержащими в имени "general".
+- **Проект zapret**: Установленные файлы проекта [zapret](https://github.com/Flowseal/zapret-discord-youtube).
 
 ## Установка 📦
 
