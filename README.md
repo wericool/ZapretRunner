@@ -2,7 +2,7 @@
 
 ![Скриншот интерфейса TTVChat Sound Alerts](https://i.postimg.cc/s2QbjS24/image.png)
 
-ZapretRunner — это приложение на Windows Forms, созданное для упрощения запуска .bat файлов проекта [zapret](https://github.com/Flowseal/zapret-discord-youtube). Программа предоставляет удобный интерфейс для выбора и запуска .bat файлов, управления автозапуском, проверки доступности сайтов и мониторинга статуса процесса `winws.exe`.
+ZapretRunner — это приложение, созданное для упрощения запуска .bat файлов проекта [zapret](https://github.com/Flowseal/zapret-discord-youtube). Программа предоставляет удобный интерфейс для выбора и запуска .bat файлов, управления автозапуском, проверки доступности сайтов и мониторинга статуса процесса `winws.exe`.
 
 ⚠️ **Примечание**: Программа тестировалась на версии 1.8.0 проекта [zapret](https://github.com/Flowseal/zapret-discord-youtube). На других версиях работа не гарантируется.
 
